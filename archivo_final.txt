@@ -1,0 +1,8 @@
+Nombre: 
+Apellido: 
+Edad: 12
+Genero: 
+Cedula: 123312132
+Ciudad: 
+Direccion: 
+Correo: 
